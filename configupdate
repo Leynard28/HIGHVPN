@@ -1,1 +1,2 @@
-highvpn
+#!/bin/sh
+echo "highvpn"
