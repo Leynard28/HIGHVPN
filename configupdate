@@ -1,2 +1,8 @@
 #!/bin/sh
-echo "highvpn"
+while true
+do
+echo "hello"
+echo "world"
+  sleep 1
+done
+done
