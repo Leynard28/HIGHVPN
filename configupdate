@@ -1,1 +1,22 @@
 #!/bin/sh
+
+while true
+do
+echo "select an option"
+echo "1. refresh rate changer"
+echo "other soon"
+read option
+
+if [ "$option" = "1" ]; then
+  
+echo "1. 60Hz"
+echo "2. 90Hz"
+echo "3. 120Hz"  
+echo "4. 144Hz"  
+read option  
+  
+else
+echo "invalid option"
+fi
+
+done
