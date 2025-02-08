@@ -1,5 +1,4 @@
 #!/bin/sh
 
 echo "leynard"
-read option
 
